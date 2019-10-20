@@ -1,0 +1,9 @@
+This is a Windows built RAT by Jubiman (c) All rights reserved.
+
+To use the RAT locally or with debug/different port/IP adress, open a CMD window, and use open the client.exe file with the correct arguments.
+
+Examples: 
+start "C:\Users\[Your Username]\Downloads\client.exe -l" // for local start
+start "C:\Users\[Your Username]\Downloads\client.exe -ip [new IP adress]" // run on specified IP adress; default is 192.168.0.8
+start "C:\Users\[Your Username]\Downloads\client.exe -p [new port]" // run on specified port; default is 5555
+start "C:\Users\[Your Username]\Downloads\client.exe -d" // open with debugging
