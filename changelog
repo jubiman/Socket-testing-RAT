@@ -1,1 +1,2 @@
 9/30/2019: Began testing with multi-threading
+1/1/2020: Multiple clients can now connect to server, though commands don't work currently
